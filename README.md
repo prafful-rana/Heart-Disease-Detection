@@ -47,4 +47,4 @@ h3> <b> EMD Accuracy Plot</b></h3>
 ![Hybrid emd acc](https://github.com/prafful-rana/Heart-Disease-Detection/assets/56781776/e93fb2a1-5c6c-4227-b6ad-89a267a42c97)
 
 <h3><b> FDM Accuracy Plot</b></h3>
-![Hybrid_fdm_acc](https://github.com/prafful-rana/Heart-Disease-Detection/assets/56781776/1b5aee03-24ce-4f6d-97e0-6189bec889f5)
+![Hybrid_fdm_acc](https://github.com/prafful-rana/Heart-Disease-Detection/assets/56781776/7efb0ca4-f6cb-427f-983d-0f0c50718eeb)
