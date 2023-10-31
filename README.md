@@ -7,8 +7,7 @@ A Time-Frequency representation (TFR) is a view of the signal, represented over 
 ![sample0_fdm_hht](https://github.com/prafful-rana/Heart-Disease-Detection/assets/56781776/dacc198a-bb70-471d-b2c4-ce48d942f141)
 
 <h1>Empirical Mode Decomposition</h1>
-It is an adaptive and efficient decomposition method capable of decomposing any complex signal into finite intrinsic mode functions. The Data itself dictates the decomposition. It is suitable for processing non-linear, non-stationary signal analysis. The decomposition is accomplished using empirical ases termed Intrinsic Mode Functions (IMF’s) that satisfy
-the following properties:
+It is an adaptive and efficient decomposition method capable of decomposing any complex signal into finite intrinsic mode functions. The Data itself dictates the decomposition. It is suitable for processing non-linear, non-stationary signal analysis. The decomposition is accomplished using empirical ases termed Intrinsic Mode Functions (IMF’s) that satisfy the following properties:
 i) For the whole dataset, the number of extrema and number of zero crossings must either
 equal or differ by atmost one.
 ii) At any point, the mean value of the envelope defined by the local maxima and envelope
